@@ -1,0 +1,51 @@
+{
+    "products": [
+    {
+        "_id": "dress-1",
+        "title": "Midi tea dress in blue and red spot",
+        "image": "/images/dress1.jpg",
+        "description": "This is for all the latest trends, no matter",
+        "price": "19.9",
+        "availableSizes": ["X","L","XL","XXL"]
+    },
+    {
+        "_id": "dress-6",
+        "title": "Frill mini dress in yellow polka dot",
+        "image": "/images/dress6.jpg",
+        "description": "This is for all the latest trends, no matter",
+        "price": "18.9",
+        "availableSizes": ["X","M","L"]
+    },
+    {
+        "_id": "dress-2",
+        "title": "Midi tea dress in blue and red spot",
+        "image": "/images/dress2.jpg",
+        "description": "This is for all the latest trends, no matter",
+        "price": "17.9",
+        "availableSizes": ["L","XL","XXL"]
+    },
+    {
+        "_id": "dress-3",
+        "title": "cami maxi dress in polka dot",
+        "image": "/images/dress3.jpg",
+        "description": "This is for all the latest trends, no matter",
+        "price": "16.9",
+        "availableSizes": ["X","XL","XXL"]
+    },
+    {
+        "_id": "dress-4",
+        "title": "MIdi sundress with ruced front",
+        "image": "/images/dress4.jpg",
+        "description": "This is for all the latest trends, no matter",
+        "price": "15.9",
+        "availableSizes": ["M","L","XXL"]
+    },
+    {
+        "_id": "dress-5",
+        "title": "Frill mini dress in yellow polka dot",
+        "image": "/images/dress5.jpg",
+        "description": "This is for all the latest trends, no matter",
+        "price": "14.9",
+        "availableSizes": ["X","L","XL"]
+    }
+]}
