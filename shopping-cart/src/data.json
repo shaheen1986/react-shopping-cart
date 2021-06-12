@@ -6,7 +6,7 @@
         "image": "/images/dress1.jpg",
         "description": "This is for all the latest trends, no matter",
         "price": "19.9",
-        "availableSizes": ["X","L","XL","XXL"]
+        "availableSizes": ["S","L","XL","XXL"]
     },
     {
         "_id": "dress-6",
@@ -14,7 +14,7 @@
         "image": "/images/dress6.jpg",
         "description": "This is for all the latest trends, no matter",
         "price": "18.9",
-        "availableSizes": ["X","M","L"]
+        "availableSizes": ["XS","M","L"]
     },
     {
         "_id": "dress-2",
