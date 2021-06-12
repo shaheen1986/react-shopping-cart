@@ -1,11 +1,11 @@
 @import url('http://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 * {
-  border: 1px solid springgreen;
+  /* border: 1px solid springgreen; */
 }
 html {
   font-size: 62.5%;
   box-sizing: border-box;
-  border: 1px solid red;
+  /* border: 1px solid red; */
 }
 a {
   text-decoration: none;
@@ -14,7 +14,7 @@ body,
 #root {
   height: 100vh;
   margin: 0;
-  border: 1px solid black;
+  /* border: 1px solid black; */
 }
 body,
 input,
@@ -125,4 +125,17 @@ footer {
 }
 .button.primary {
   background-color: #f0c040;
+}
+
+/* filter */
+
+.filter {
+  display: flex;
+  padding: 1rem;
+  margin: 1rem;
+  border-bottom: 0.1rem #c0c0c0 solid;
+  justify-content: space-between;
+}
+.filter div {
+  flex: 1;
 }
