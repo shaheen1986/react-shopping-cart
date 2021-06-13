@@ -1,6 +1,6 @@
 @import url('http://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 * {
-  /* border: 1px solid springgreen; */
+  border: 1px solid springgreen;
 }
 html {
   font-size: 62.5%;
@@ -137,5 +137,46 @@ footer {
   justify-content: space-between;
 }
 .filter div {
+  flex: 1;
+}
+
+/* cart heading*/
+
+.cart {
+  padding: 1rem;
+  margin: 1.3rem;
+  display: flex;
+}
+.cart-header {
+  border-bottom: 0.1rem #c0c0c0 solid;
+}
+
+/* cart item */
+
+.cart-items {
+  padding: 0;
+  width: 100%;
+  list-style-type: none;
+}
+.cart-items img {
+  width: 5rem;
+}
+.cart-items li {
+  display: flex;
+}
+.cart-items li div:last-child {
+  flex: 1;
+}
+.right {
+  text-align: right;
+}
+.total {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.total > div,
+.total > button {
   flex: 1;
 }
